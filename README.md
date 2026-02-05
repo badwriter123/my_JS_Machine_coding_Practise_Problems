@@ -5,4 +5,5 @@
 <h4>3. Jan 30 2026 Problem -> Age Calculator in JS. Tests user knowledge on basic math and basic JS Input / Output.</h4>
 <h4>4. Feb 2 2026 Problem -> Countdown Timer in HTML, CSS, JS. Tests user knowledge in basic HTML, CSS and JS.</h4>
 <h4>5. Feb 3 2026 Problem -> Weight converter from Pound scale to KG scale in JS. Tests user knowledge in basic JS Input / Output.</h4>
+<h4>6. Feb 5 2026 Problem -> Text generation from Image using the Tesseract.js module. Tests user knowledge in JS file system and Text Generation.</h4>  
 </h2>
