@@ -8,4 +8,5 @@
 <h4>6. Feb 5 2026 Problem -> Text generation from Image using the Tesseract.js module. Tests user knowledge in JS file system and Text Generation.</h4>
 <h4>7. Feb 6 2026 Problem -> Create a simple Express.js server. Tests basic backend coding practices and backend server creation.</h4>
 <h4>8. Feb 12 2026 Problem -> Create a simple get_endpoint server. Teste basic GET endpoint knowledge along with server creation.</h4>  
+<h4>9. Feb 13 2026 Problem -> Create a simple post_endpoint server that parses json inputs sent to it. Tests basic POST endpoint knowledge along with server creation.</h4>  
 </h2>
