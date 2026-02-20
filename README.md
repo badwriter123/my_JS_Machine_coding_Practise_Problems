@@ -12,4 +12,5 @@
 <h4>10 Feb 14 2026 Problem -> Create a GET API Endpoint `/api/users/:id` that looks up a user by the ID in the url and returns that user, or sends a 404 error message if that user does not exist. It tests your understanding of Express route parameters, request handling, array searching, and proper HTTP status code usage (404).</h4>
 <h4>11. Feb 20 2026 Problem -> File system module. Basic file system functionalities like Create, Append, Read, Write and Delete. Tests user knowledge in FS (file system) module.
 </h4>  
+<h4>12. Feb 20 2026 Problem -> File system module. File system functionalities using Async/Await. As Async/Await are more production friendly and handle requests concurrently, the basic file system can be looped back and written in Async/Await. Tests user knowledge in Asynchronous Javascript.</h4>
 </h2>
