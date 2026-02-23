@@ -15,6 +15,8 @@ console.log('Extension name: ', path.extname('profile.json'));
 console.log("File name: ", path.basename('profile.json'));
 
 // Get Directory name
+// console.log("Directory name: ", path.dirname(filePath));
+console.log('Directory name: ', path.dirname(filePath));
 console.log("Directory name: ", path.dirname('profile.json'));
 
 // Parse Path into Object
