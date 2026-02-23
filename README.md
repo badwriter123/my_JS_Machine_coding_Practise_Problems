@@ -13,4 +13,5 @@
 <h4>11. Feb 20 2026 Problem -> File system module. Basic file system functionalities like Create, Append, Read, Write and Delete. Tests user knowledge in FS (file system) module.
 </h4>  
 <h4>12. Feb 20 2026 Problem -> File system module. File system functionalities using Async/Await. As Async/Await are more production friendly and handle requests concurrently, the basic file system can be looped back and written in Async/Await. Tests user knowledge in Asynchronous Javascript WRT file system (FS) module.</h4>
+<h4>13. Feb 23 2026 Problem -> OS module. Info regarding the machine / server can be known in realtime for monitoring during production. Tests user knowledge in OS module system and it's functionalities.</h4>
 </h2>
