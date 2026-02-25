@@ -1,4 +1,4 @@
-<h1>This Repo is a collection of my Personal JS Machine coding Problems.</h1>
+<h1>This Repo is a collection of my Personal JS Machine coding Problems. Feel free to experiment and learn.</h1>
 <h2>Problems and Solutions will be pushed daily<h2>
   Important -> Understanding {package.json} => package.json is the heart of node.js backend, it contains dependencies and metadata to be used. Also additional JS packages can be downloaded and used.
 <br>
